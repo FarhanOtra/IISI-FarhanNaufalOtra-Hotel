@@ -600,7 +600,7 @@ session_start();
 
                         <div id="populerhotel">
                           <div class="container2" style="margin-bottom: 0px;">
-                            <div class="row2" style="margin-bottom: 0px">
+                            <div class="row2" style="margin-bottom: 10px">
                               <?php
                                while($baris = pg_fetch_array($result)){
                               ?>
